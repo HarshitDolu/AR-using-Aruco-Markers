@@ -1,7 +1,7 @@
 # AR-using-Aruco-Markers
 ArUco stands for Augmented Reality University of Cordoba. That is where it was developed in Spain. An aruco marker is a fiducial marker that is placed on the object or scene being imaged. It is a binary square with black background and boundaries and a white generated pattern within it that uniquely identifies it. The black boundary helps making their detection easier.<br>
 <p align="center">
-  <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/123.png">
+  <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/marker_1.png">
 </p>
 
 They can be generated in a variety of sizes. The size is chosen based on the object size and the scene, for a successful detection. If very small markers are not being detected, just increasing their size can make their detection easier.
