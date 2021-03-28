@@ -23,5 +23,5 @@ Each image has image no and aruco markers have its unique ID. So overlaying imag
 Aruco generator:- <a href="https://chev.me/arucogen/">https://chev.me/arucogen/</a>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/123.png">
+  <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/demo.jpeg">
 </p>
