@@ -21,7 +21,12 @@ The task is to overlay images (present in markers folder) over aruco markers.
 Each image has image no and aruco markers have its unique ID. So overlaying image over aruco when (imageNo == marker_id)
 
 Aruco generator:- <a href="https://chev.me/arucogen/">https://chev.me/arucogen/</a>
+OpenCV Aruco documentation:- <a href="https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html">https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html</a>
 
 <p align="center">
+   <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/123.png">
   <img width="460" height="300" src="https://github.com/HarshitDolu/AR-using-Aruco-Markers/blob/main/demo.jpeg">
-</p>
+ </p>
+ 
+ 
+ 
